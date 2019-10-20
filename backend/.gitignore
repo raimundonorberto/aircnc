@@ -1,0 +1,5 @@
+
+.env
+
+# Arquivos enviados para o app
+uploads/*
